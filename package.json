@@ -1,0 +1,25 @@
+{
+  "name": "cpu-benchmark",
+  "version": "1.0.0",
+  "description": "Two functions that measure the computation power",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strernd/cpu-benchmark.git"
+  },
+  "keywords": [
+    "cpu",
+    "performance",
+    "benchmark",
+    "computation"
+  ],
+  "author": "Bernd Strehl <bernd.strehl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strernd/cpu-benchmark/issues"
+  },
+  "homepage": "https://github.com/Strernd/cpu-benchmark#readme"
+}
