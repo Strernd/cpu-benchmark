@@ -1,6 +1,6 @@
 {
   "name": "cpu-benchmark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Two functions that measure the computation power",
   "main": "index.js",
   "scripts": {
