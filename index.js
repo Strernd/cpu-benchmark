@@ -46,7 +46,7 @@ const fibonacci = i => {
 
 const fibBenchmark = i => {
     const start = new Date().getTime();
-    fibonacci(41);
+    fibonacci(i);
     const end = new Date().getTime();
     return end - start;
 }
